@@ -23,7 +23,7 @@ Library Manager — это консольное приложение для уп
 Установка:
 
 >1. Клонируйте репозиторий или скачайте архив с кодом:
->> nvdhbckjsdndsjnsdsd
+>> git clone https://github.com/tsyganno/test_task-library_management_system.git
 >2. Убедитесь, что у вас установлен Python:
 >>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;python --version
 
